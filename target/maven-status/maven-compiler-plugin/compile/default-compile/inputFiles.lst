@@ -1,0 +1,10 @@
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConstants.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConsumerConfig.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/Show.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/services/NotificationService.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/User.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/controllers/NotificationController.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/services/UserService.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/Category.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/NotificationApplication.java
+/Users/edgardouton/Desktop/Práctica_2_Ing_Softw/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaClassListener.java
